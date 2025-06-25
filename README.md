@@ -52,7 +52,7 @@ While corporate responsibility in climate action is well-documented, individual 
 ## 📷 Screenshots
 
 ![Homepage]
-_The homepage for users, providing an overview of their activity. _
+_The homepage for users, providing an overview of their activity._
 
 ![Activity Tracking]
 _The activity tracking page where users input their activity data._
@@ -63,6 +63,12 @@ _Summary of carbon footprint calculations._
 ---
 
 ## 📹 Demo Video
+_Click to watch a demo showcasing the main features and user flow._
 
-[!Demo Video]
-_Click the image to watch a demo showcasing the main features and user flow._
+**Mobile Demo Video**
+(demos/mobile_demo.mp4)
+
+**Desktop Demo Video** 
+(demos/desktop_demo.mp4)
+
+---
