@@ -54,7 +54,7 @@ _Click to view examples of the initial designs._
 
 [Wireframes](design/wireframes.jpg)
 
-[mockups](design/mockups/jpg)
+[Mockups](design/mockups/jpg)
 
 ---
 
