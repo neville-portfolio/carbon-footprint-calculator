@@ -8,7 +8,7 @@ A web application that allows UK-based users to calculate, track, and reduce the
 
 This project was developed as part of my MSc in Computer Science with Data Analytics. It addresses the growing need for individual environmental accountability by offering a user-friendly and inclusive carbon footprint calculator.
 
-It not only estimates users’ carbon output using reliable UK emissions factors, but also helps track progress over time and educates users on reduction strategies.
+It not only estimates users’ carbon output using reliable UK emissions factors, but also helps track progress over time and educates users on reduction strategies. 
 
 ---
 
@@ -46,3 +46,23 @@ While corporate responsibility in climate action is well-documented, individual 
 - **User testing** conducted via interactive prototypes
 - **Manual and exploratory testing** during implementation
 - Final product met both **core** and **extended** requirements
+
+---
+
+## 📷 Screenshots
+
+![Homepage]
+_The homepage for users, providing an overview of their activity. _
+
+![Activity Tracking]
+_The activity tracking page where users input their activity data._
+
+![Results Page]
+_Summary of carbon footprint calculations._
+
+---
+
+## 📹 Demo Video
+
+[!Demo Video]
+_Click the image to watch a demo showcasing the main features and user flow._
