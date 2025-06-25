@@ -65,10 +65,8 @@ _Summary of carbon footprint calculations._
 ## 📹 Demo Video
 _Click to watch a demo showcasing the main features and user flow._
 
-**Mobile Demo Video**
-(Demos/mobile_demo.mp4)
+[Mobile Demo Video](Demos/mobile_demo.mp4)
 
-**Desktop Demo Video** 
-(Demos/desktop_demo.mp4)
+[Desktop Demo Video](Demos/desktop_demo.mp4)
 
 ---
