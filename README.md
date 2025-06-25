@@ -36,7 +36,7 @@ While corporate responsibility in climate action is well-documented, individual 
 - **Backend** -> PHP
 - **Database** -> MySQL
 - **Design Tools** -> Figma (for prototyping and user testing)
-- **Data Sources** -> UK Government and environmental agency emissions datasets
+- **Data Sources** -> UK Government and Environmental Agency emissions datasets
 
 ---
 
