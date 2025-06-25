@@ -50,8 +50,11 @@ While corporate responsibility in climate action is well-documented, individual 
 ---
 
 ## Design Prototypes
+_Click to view examples of the initial designs._
 
+[Wireframes](design/wireframes.jpg)
 
+[mockups](design/mockups/jpg)
 
 ---
 
